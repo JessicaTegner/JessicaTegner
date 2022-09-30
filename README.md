@@ -21,4 +21,13 @@
 ### 🕰 WAKA Time
 
 <!--START_SECTION:waka-->
+
+```text
+From: 22 September 2022 - To: 29 September 2022
+
+Total Time: 0 secs
+
+Python   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
