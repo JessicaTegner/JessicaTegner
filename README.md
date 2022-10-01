@@ -17,8 +17,3 @@
 9. ❗️ Closed issue [#291](https://github.com/JessicaTegner/pypandoc/issues/291) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
 10. 🗣 Commented on [#294](https://github.com/JessicaTegner/pypandoc/issues/294) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
 <!--END_SECTION:activity-->
-
-### 🕰 WAKA Time
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
