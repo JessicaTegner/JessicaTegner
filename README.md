@@ -6,9 +6,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#40](https://github.com/JessicaTegner/teamtalk.py/pull/40) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
-2. ❌ Closed PR [#41](https://github.com/JessicaTegner/teamtalk.py/pull/41) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
-3. 💪 Opened PR [#187](https://github.com/samtupy/nvgt/pull/187) in [samtupy/nvgt](https://github.com/samtupy/nvgt)
+1. 🗣 Commented on [#374](https://github.com/JessicaTegner/pypandoc/issues/374#issuecomment-2907799430) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
+2. ❌ Reopened PR [#40](https://github.com/JessicaTegner/teamtalk.py/pull/40) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
+3. ❌ Closed PR [#41](https://github.com/JessicaTegner/teamtalk.py/pull/41) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
 4. 🎉 Merged PR [#38](https://github.com/JessicaTegner/teamtalk.py/pull/38) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
 5. 💪 Opened PR [#38](https://github.com/JessicaTegner/teamtalk.py/pull/38) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
 6. 🎉 Merged PR [#35](https://github.com/JessicaTegner/teamtalk.py/pull/35) in [JessicaTegner/teamtalk.py](https://github.com/JessicaTegner/teamtalk.py)
