@@ -6,8 +6,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#693](https://github.com/velopack/velopack/pull/693) in [velopack/velopack](https://github.com/velopack/velopack)
-2. 💪 Opened PR [#40](https://github.com/velopack/velopack.docs/pull/40) in [velopack/velopack.docs](https://github.com/velopack/velopack.docs)
+1. 🗣 Commented on [#137020](https://github.com/python/cpython/pull/137020#issuecomment-3109494816) in [python/cpython](https://github.com/python/cpython)
+2. 💪 Opened PR [#693](https://github.com/velopack/velopack/pull/693) in [velopack/velopack](https://github.com/velopack/velopack)
 3. 💪 Opened PR [#691](https://github.com/velopack/velopack/pull/691) in [velopack/velopack](https://github.com/velopack/velopack)
 4. 🗣 Commented on [#519](https://github.com/velopack/velopack/issues/519#issuecomment-2990188029) in [velopack/velopack](https://github.com/velopack/velopack)
 5. ❌ Closed PR [#405](https://github.com/JessicaTegner/pypandoc/pull/405) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
