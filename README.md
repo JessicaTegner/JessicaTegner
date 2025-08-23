@@ -6,9 +6,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#722](https://github.com/velopack/velopack/pull/722) in [velopack/velopack](https://github.com/velopack/velopack)
-2. 💪 Opened PR [#721](https://github.com/velopack/velopack/pull/721) in [velopack/velopack](https://github.com/velopack/velopack)
-3. 💪 Opened PR [#691](https://github.com/velopack/velopack/pull/691) in [velopack/velopack](https://github.com/velopack/velopack)
+1. 🗣 Commented on [#406](https://github.com/JessicaTegner/pypandoc/issues/406#issuecomment-3217245394) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
+2. 💪 Opened PR [#722](https://github.com/velopack/velopack/pull/722) in [velopack/velopack](https://github.com/velopack/velopack)
+3. 💪 Opened PR [#721](https://github.com/velopack/velopack/pull/721) in [velopack/velopack](https://github.com/velopack/velopack)
 4. 🗣 Commented on [#519](https://github.com/velopack/velopack/issues/519#issuecomment-2990188029) in [velopack/velopack](https://github.com/velopack/velopack)
 5. ❌ Closed PR [#405](https://github.com/JessicaTegner/pypandoc/pull/405) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
 6. 💪 Opened PR [#405](https://github.com/JessicaTegner/pypandoc/pull/405) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
