@@ -11,7 +11,7 @@
 3. 🗣 Commented on [#407](https://github.com/JessicaTegner/pypandoc/issues/407#issuecomment-3607347040) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
 4. 🗣 Commented on [#417](https://github.com/JessicaTegner/pypandoc/issues/417#issuecomment-3607341701) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
 5. 🗣 Commented on [#416](https://github.com/JessicaTegner/pypandoc/issues/416#issuecomment-3607324141) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
-6. ❌ Closed PR [#137](undefined) in [ErasmusEgalitarian/educado-backend](https://github.com/ErasmusEgalitarian/educado-backend)
+6. ❌ Closed PR [#137](https://github.com/ErasmusEgalitarian/educado-backend/pull/137) in [ErasmusEgalitarian/educado-backend](https://github.com/ErasmusEgalitarian/educado-backend)
 7. 💪 Opened PR [#138](undefined) in [ErasmusEgalitarian/educado-backend](https://github.com/ErasmusEgalitarian/educado-backend)
 8. 💪 Opened PR [#137](undefined) in [ErasmusEgalitarian/educado-backend](https://github.com/ErasmusEgalitarian/educado-backend)
 9. ❌ Merged PR [#415](undefined) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
