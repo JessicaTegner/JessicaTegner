@@ -6,7 +6,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/AccessForge/AccessForge/pull/8#issuecomment-4238295332) in [AccessForge/AccessForge](https://github.com/AccessForge/AccessForge)
+1. 💪 Opened PR [#4](https://github.com/RealAmethyst/BlindDuel/pull/4) in [RealAmethyst/BlindDuel](https://github.com/RealAmethyst/BlindDuel)
 2. 🎉 Merged PR [#14](https://github.com/AccessForge/AccessForge/pull/14) in [AccessForge/AccessForge](https://github.com/AccessForge/AccessForge)
 3. 💪 Opened PR [#14](https://github.com/AccessForge/AccessForge/pull/14) in [AccessForge/AccessForge](https://github.com/AccessForge/AccessForge)
 4. 🗣 Commented on [#2](https://github.com/AccessForge/AccessForge/pull/2#issuecomment-4222502818) in [AccessForge/AccessForge](https://github.com/AccessForge/AccessForge)
