@@ -6,7 +6,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#374](https://github.com/JessicaTegner/pypandoc/issues/374) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
+1. 🗣 Commented on [#20088](https://github.com/nvaccess/nvda/issues/20088#issuecomment-5230105049) in [nvaccess/nvda](https://github.com/nvaccess/nvda)
 2. 🗣 Commented on [#439](https://github.com/JessicaTegner/pypandoc/pull/439#issuecomment-4808216902) in [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc)
 3. 🎉 Merged PR [#5](https://github.com/RealAmethyst/BlindDuel/pull/5) in [RealAmethyst/BlindDuel](https://github.com/RealAmethyst/BlindDuel)
 4. 💪 Opened PR [#5](https://github.com/RealAmethyst/BlindDuel/pull/5) in [RealAmethyst/BlindDuel](https://github.com/RealAmethyst/BlindDuel)
